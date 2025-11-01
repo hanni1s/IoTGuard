@@ -133,8 +133,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/iotguard.git
-   cd iotguard
+   git clone https://github.com/hanni1s/IoTGuard
+   cd IoTGuard
    ```
 
 2. **Create virtual environment** (recommended)
@@ -405,3 +405,4 @@ Planned features for future releases:
 IoTGuard is intended for authorized security testing and educational purposes only. Users are responsible for ensuring they have proper authorization before scanning any network or device. Unauthorized access to computer systems is illegal.
 
 ---
+
