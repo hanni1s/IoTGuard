@@ -1,5 +1,10 @@
-#  IoTGuard - Omni IoT Security Scanner
+# IoTGuard - Omni IoT Security Scanner
 
+<div align="center">
+
+![IoTGuard](https://img.shields.io/badge/IoTGuard-v1.0.0-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **AI-Powered IoT Vulnerability Scanner | Advanced Threat Detection**
 
@@ -162,7 +167,7 @@
 
 ---
 
-## Usage
+## 🚀 Usage
 
 ### Starting the Application
 
@@ -292,8 +297,27 @@ User Scan → Nmap Analysis → AI Risk Prediction
                     ┌───────────────┴───────────────┐
                     ↓                               ↓
             User Notification              Technician Alert
-          (with recommendations)        (with port details)
+          (with recommendations)          (with port details)
 ```
+
+---
+
+## 📸 Screenshots
+
+### Login Page
+Beautiful animated login with particle effects and gradient backgrounds.
+
+### User Dashboard
+- Real-time scanning interface
+- AI risk assessment display
+- Notification center
+- Report export options
+
+### Technician Dashboard
+- System-wide analytics
+- Security alerts monitoring
+- AI intelligence and forecasting
+- Advanced filtering and search
 
 ---
 
@@ -323,7 +347,7 @@ IoTGuard implements several security measures:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these guidelines:
 
@@ -337,7 +361,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/iotguard.git
+git clone https://github.com/hanni1s/IoTGuard
 
 # Create development branch
 git checkout -b dev
@@ -369,21 +393,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Project Maintainer**: Hanis Masturina
+**Project Maintainer**: Hanis, Hanim, Sofea
 
 - GitHub: [@hanni1s](https://github.com/hanni1s)
 - Email: hanismstrn@gmail.com
-
 ---
 
 ## Academic Information
 
-This project was developed as part of Politeknik Ungku Omar - Diploma in DIgital Technology (Information Security)
-Team members: Hanis Masturina, Sofea, Nur Naida Hanim
+This project was developed as part of Final Year Project of Diploma in Digital Technology (Information Security) at Politeknik Ungku Omar
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 Planned features for future releases:
 
@@ -400,9 +422,16 @@ Planned features for future releases:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 IoTGuard is intended for authorized security testing and educational purposes only. Users are responsible for ensuring they have proper authorization before scanning any network or device. Unauthorized access to computer systems is illegal.
 
 ---
 
+<div align="center">
+
+**IoTGuard | Omni IoT Security**
+
+⭐ **Star this repo if you find it helpful!** ⭐
+
+</div>
